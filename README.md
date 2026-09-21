@@ -15,4 +15,5 @@
 <a href="https://github.com/kschouft/ft_irc">![ft_irc](https://github.com/kschouft/kschouft/blob/master/badges/ft_ircm.png)</a>
 <a href="https://github.com/kschouft/inception">![inception](https://github.com/kschouft/kschouft/blob/master/badges/inceptionm.png)</a>
 <a href="https://github.com/kschouft/ft_transcendence">![ft_transcendence](https://github.com/kschouft/kschouft/blob/master/badges/ft_transcendencem.png)</a>
+<a href="https://github.com/kschouft/malloc">![malloc](https://github.com/kschouft/kschouft/blob/master/badges/malloc.png)</a>
 </div>
